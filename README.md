@@ -25,8 +25,8 @@ I am building a foundation in ML to solve complex problems in **Computational Ch
 
 | Project / Task | Focus | Tech Used | Status |
 | :--- | :--- | :--- | :--- |
-| **LogP Predictor (v1)** | **Feature Engineering** using RDKit descriptors | Python, Random Forest | ✅ Complete |
-| **Linear Regression Practice** | Basic house price prediction | Scikit-learn, Pandas | ✅ Complete |
+| **Predicting Lipophilicity** | **Feature Engineering** using RDKit descriptors | Python, Random Forest | ✅ Complete |
+| **Linear Regression Basics** | Gradient descent and cost functions | Scikit-learn, Pandas | ✅ Complete |
 | **Data Cleaning Modules** | Handling missing values & outliers | Pandas, NumPy | 🔄 Ongoing |
 | **#100DaysOfML Logs** | Weekly reflections and small scripts | Various | 🔄 In Progress |
 
@@ -41,7 +41,7 @@ I am currently documenting my progress through a structured learning challenge. 
 ---
 
 ## 🖇️ Let's Connect
-* **LinkedIn:** [Hanine Slimani](https://www.linkedin.com/in/hanine-slimani-2001b0227/)
+* **LinkedIn:** [Hanine Slimani](https://www.linkedin.com/in/hanine-slimani-721245233/)
 
 ---
 > *"Turning chemical structures into data-driven insights, one script at a time."*
